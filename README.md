@@ -2,14 +2,6 @@
 
 This repository contains hands-on exercises and modules for exploring different runtimes and frameworks.
 
-## Structure
-runtime-lab/
-├── apps/
-│ ├── hello-node/ # Example app using Node.js
-│ └── hello-bun/ # Example app using Bun
-├── bun.lock
-└── package.json
-
 ## Modules
 
 - **Module 1** – Basic setup with Node.js and Bun
